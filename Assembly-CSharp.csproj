@@ -57,7 +57,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Utils/Earcut.cs" />
-    <Compile Include="Assets/Mesh.cs" />
     <Compile Include="Assets/Utils/Extrude.cs" />
     <Compile Include="Assets/Test.cs" />
   </ItemGroup>
